@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Progmatic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Review" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/interview_questions" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/javascript_ciklusok" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/javascript_elagazasok" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/js_dom_01_23" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/js_esemenyk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/js_far_cel_calc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/js_feladatok" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/js_forms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/js_forms_II" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/progmatic-second" vcs="Git" />
+  </component>
+</project>
